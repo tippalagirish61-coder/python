@@ -1,0 +1,11 @@
+#(3:c)code program for number comparison, grading system, and decision making using if else if
+
+
+num = int(input("enter a number"))
+
+if num > 0:
+    print("positive number")
+elif num < 0:
+    print("negative number")
+else:
+    print("equal number")

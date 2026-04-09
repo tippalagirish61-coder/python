@@ -1,0 +1,5 @@
+#(1) write program for simple data input using input() and formatted output using print()
+
+a = int(input("enter 1st number"))
+b = int(input("enter 2nd number"))
+print("sum =",a+b)

@@ -1,0 +1,7 @@
+#(2:b) implement programs for computing area, simple interest, and basic arithmetic expression
+
+p = int(input("enter principle amount"))
+t = int(input("enter time"))
+r = int(input("enter rate"))
+SI = p*t*r/100
+print("simple interest is", SI)

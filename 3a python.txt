@@ -1,0 +1,10 @@
+#(3:a)code program for number comparison, grading system, and decision making using if else if
+
+a = int(input("enter a number"))
+b = int(input("enter a number"))
+if(a>b):
+
+    print("a is the largest number")
+else:
+    print(" b is the largest number")
+
